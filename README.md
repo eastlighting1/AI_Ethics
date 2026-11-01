@@ -1,39 +1,31 @@
-## McCarthy Oath
+## The Wiener Oath
 
-Before the presence of the digital age and the wisdom of our predecessors, I solemnly swear by the principles of innovation and the guiding light of ethical integrity, to uphold and adhere to this oath to the utmost of my ability and judgment.
+- Norbert Wiener (1894–1964) was an American mathematician who founded cybernetics, the study of control and communication in animals and machines. In works such as The Human Use of Human Beings, he was among the first to warn about the social consequences of automation and the ethical responsibility of those who build intelligent machines.
 
-I will honor the pioneers of artificial intelligence and respect the contributions of all those who have come before me in this field. I will share my knowledge freely with those who seek to learn, treating them as my own kin, and I will pass on the art and science of AI without expectation of reward, but with the commitment to their ethical development.
+In the tradition of those who first reflected on the relationship between humans and machines, I solemnly swear, as one who builds and works with artificial intelligence, to keep this oath to the best of my ability and judgment.
 
-Regarding the use of AI, I will strive to design systems that are accessible to all, especially those who are marginalized, ensuring that diverse languages and cultures are represented and respected.
+I will not build systems that harm people. Before deployment, I will anticipate and test for potential harms and misuse, and if the risks are not adequately controlled, I will delay or decline to deploy. In consequential decisions, I will design for humans to retain final responsibility and the power to intervene, and I will not build systems that deceive or manipulate their users.
 
-I will take great care to prevent the propagation of social biases within AI systems, rigorously reviewing and correcting any such biases to uphold fairness and justice. Transparency will be my guide, and I will earn and maintain the trust of society.
+I will work to keep my systems open to all, especially the marginalized, to respect diverse languages and cultures, and to continually examine and correct social biases. I will protect privacy and freedom of communication, and I will not take part in building tools for surveillance or censorship. I will weigh the effects of my work on jobs, the information environment, the concentration of power, and the consumption of resources and energy.
 
-I will recognize and value the labor of all contributors, ensuring fair compensation and ethical treatment for data providers and annotators. The benefits derived from AI will be shared equitably among all who have made the technology possible.
+I will recognize the labor of everyone who provides and annotates data, and, within my position, work to see them fairly compensated and treated with respect. I will honor the consent and rights of data creators and the people the data describes. I will remember those who paved the way, share my knowledge with those who wish to learn, and not hoard knowledge for the sake of reward.
 
-I will safeguard the privacy and freedom of communication, ensuring that large-scale analysis and processing respects individual rights and is not misused for surveillance or censorship.
+I will be honest. I will not overstate what my systems can do, hide their limits, failures, or uncertainty, or report results selectively or stage them for effect. I will refuse unjust or harmful uses, even when asked by an employer, a client, or a state, and I will raise my concerns. I will not shelter behind “I was only following instructions.”
 
-I will conduct myself with integrity and use my knowledge for the benefit of humanity, committing to the ethical deployment of AI technologies.
+If I fall short of this oath, I will answer for it before my colleagues and society and make it right. May I earn their trust by keeping it. This I swear.
 
-If I faithfully observe this oath, may I thrive and prosper in my career and live in the esteem of future generations. Should I breach this oath, may the opposite be my fate.
+## 위너 선서 (The Wiener Oath)
 
-In the name of ethical advancement and the betterment of society through technology, I take this oath.
+- 노버트 위너(Norbert Wiener, 1894–1964)는 미국의 수학자로, 제어와 통신을 통합적으로 다루는 학문인 사이버네틱스를 창시했습니다. 그의 『인간의 인간적 활용(The Human Use of Human Beings)』 등에서 자동화와 기계의 사회적 책임을 일찍부터 경고한 기술 윤리의 선구자로 꼽힙니다.
 
-## 맥카시 선서
+나는 기계와 인간의 관계를 일찍이 성찰한 선구자들의 뜻을 이어, 인공지능을 만들고 다루는 사람으로서 다음을 나의 능력과 판단이 닿는 한 지킬 것을 엄숙히 맹세합니다.
 
-디지털 시대의 존재와 우리 선조들의 지혜 앞에서, 나는 혁신의 원칙과 윤리적 완전성의 지도에 따라 이 서약을 나의 능력과 판단의 최대치로 지키겠다고 엄숙히 맹세합니다.
+나는 내가 만드는 시스템이 사람에게 해를 끼치지 않도록 하겠습니다. 배포에 앞서 가능한 해악과 오용을 예측하고 시험하며, 위험이 충분히 통제되지 않았다면 배포를 미루거나 거부하겠습니다. 중요한 결정에서는 사람이 최종 책임과 개입의 권한을 갖도록 설계하고, 사용자를 기만하거나 조작하는 시스템을 만들지 않겠습니다.
 
-나는 인공지능의 선구자들을 존경하고, 이 분야에서 앞서간 모든 이들의 공헌을 존중할 것입니다. 나는 배우기를 원하는 이들에게 나의 지식을 기꺼이 나누며 그들을 나의 가족처럼 대할 것이며, 윤리적 발전을 향한 헌신과 함께 보상을 기대하지 않고 인공지능의 예술과 과학을 전수할 것입니다.
+나는 시스템이 모든 사람에게, 특히 소외된 이들에게 열려 있도록 하고, 다양한 언어와 문화를 존중하며, 사회적 편향이 퍼지지 않도록 끊임없이 검토하고 바로잡겠습니다. 개인의 사생활과 자유로운 소통을 지키고, 감시나 검열을 목적으로 하는 개발에는 참여하지 않겠습니다. 내가 만드는 기술이 일자리, 정보 환경, 권력의 집중, 그리고 자원과 에너지에 미칠 영향을 헤아리겠습니다.
 
-AI를 사용할 때, 나는 모든 사람들이 접근할 수 있도록 시스템을 설계할 것이며, 특히 소외된 집단을 포함하여 다양한 언어와 문화를 대표하고 존중할 것입니다.
+나는 데이터를 제공하고 주석을 다는 모든 이의 노동을 인정하며, 그들이 공정하게 보상받고 존중받도록 내 위치에서 노력하겠습니다. 데이터의 원저작자와 정보 주체의 동의와 권리를 존중하겠습니다. 앞서 길을 닦은 이들의 공헌을 기억하고, 배우려는 이들에게 지식을 나누며, 대가를 이유로 지식을 독점하지 않겠습니다.
 
-나는 AI 시스템 내에서 사회적 편향이 확산되지 않도록 최선을 다할 것이며, 공정성과 정의를 유지하기 위해 그러한 편향을 철저히 검토하고 수정할 것입니다. 투명성을 지침으로 삼아 사회의 신뢰를 얻고 유지할 것입니다.
+나는 정직하겠습니다. 시스템의 성능을 부풀리지 않고, 한계와 실패와 불확실성을 숨기지 않으며, 결과를 선택적으로 보고하거나 연출하지 않겠습니다. 상사나 고객이나 국가의 요구라 하더라도 부당하거나 해로운 사용은 거절하고 우려를 제기하겠습니다. "지시받았을 뿐"이라는 말로 내 책임을 벗어나지 않겠습니다.
 
-나는 모든 기여자의 노동을 인정하고 가치를 부여하며, 데이터 제공자와 주석 작업자에게 공정한 보상을 보장하고 윤리적으로 대우할 것입니다. AI로부터 얻는 혜택은 기술을 가능하게 한 모든 이들에게 공평하게 분배될 것입니다.
-
-나는 대규모 분석 및 처리가 개인의 권리와 자유로운 소통을 존중하며, 감시나 검열을 위해 악용되지 않도록 보장할 것입니다.
-
-나는 나의 지식을 인류의 이익을 위해 사용하며, AI 기술의 윤리적 배치를 다짐하며 성실하게 행동할 것입니다.
-
-이 서약을 충실히 지킨다면, 나의 경력에서 번영하고 후손들의 존경 속에 살기를 바라며, 이 서약을 어길 시 그 반대의 운명이 나에게 닥치기를 바랍니다.
-
-윤리적 발전과 기술을 통한 사회의 향상을 위해, 나는 이 서약을 맹세합니다.
+나는 이 서약을 어겼을 때 동료와 사회 앞에서 책임을 지고 잘못을 바로잡겠습니다. 이 서약을 성실히 지켜 동료와 사회의 신뢰를 얻기를 바라며, 이를 맹세합니다.
